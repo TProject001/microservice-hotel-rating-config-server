@@ -1,6 +1,6 @@
-spring:
-  application:
-    name: CONFIG-CLIENT
+# spring:
+#   application:
+#     name: CONFIG-CLIENT
 
 # eureka client discovery configuration
 eureka:
